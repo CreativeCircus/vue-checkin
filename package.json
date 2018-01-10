@@ -1,7 +1,7 @@
 {
-  "name": "circus-starter",
+  "name": "Vue Class, Check In project template",
   "version": "1.2.3",
-  "description": "A good starting point for new Circus students",
+  "description": "Circus Starter plus the start of the html needed for the Check In project",
   "main": "gulpfile.js",
   "dependencies": {},
   "devDependencies": {
@@ -22,13 +22,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chrissilich/circus-starter.git"
+    "url": "git+https://github.com/CreativeCircus/vue-checkin.git"
   },
   "author": "Chris Silich",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chrissilich/circus-starter/issues"
+    "url": "https://github.com/CreativeCircus/vue-checkin/issues"
   },
-  "homepage": "https://github.com/chrissilich/circus-starter#readme",
+  "homepage": "https://github.com/CreativeCircus/vue-checkin#readme",
   "babel": {}
 }
