@@ -1,0 +1,73 @@
+/* 
+==============================================
+CONTENT:	Project Name Here
+AUTHOR:		Your Name Here
+==============================================
+
+TABLE OF CONTENTS:
+
+1. Main Layout
+2. Content
+
+==============================================
+*/
+
+@import 'reset';
+
+
+/* 1. Main Layout ================================= */
+
+* {
+	box-sizing: border-box;
+}
+
+html, body {
+	min-height: 100vh;
+}
+
+body {
+	background:white;
+	font-family: Helvetica, Arial, sans-serif;
+	border: 30px solid black;
+	padding: 30px;
+}
+
+h1 {
+	font-size: 7.5vw;
+	font-weight: bold;
+	text-align: center;
+}
+
+ul {
+	display: flex;
+	flex-wrap: wrap;
+	// justify-content: space-between;
+	align-content: flex-start;
+	li {
+		text-align: center;
+		width: 250px;
+		border: 1px solid #999;
+		border-radius: 10px;
+		padding: 10px;
+		margin: 10px 0;
+		h3 {
+			font-size: 18pt;
+			font-weight: bold;
+		}
+		p {
+			font-size: 12pt;
+			color: #999;
+		}
+	}
+}
+
+
+h2 {
+	font-size: 4vw;
+	margin-top: 100px;
+}
+
+input {
+	font-size: 15pt;
+	padding: 5px 8px;
+}
