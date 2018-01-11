@@ -1,6 +1,6 @@
 {
-  "name": "Vue Class, Check In project template",
-  "version": "1.2.3",
+  "name": "vue-checkin",
+  "version": "1.0",
   "description": "Circus Starter plus the start of the html needed for the Check In project",
   "main": "gulpfile.js",
   "dependencies": {},
@@ -12,6 +12,7 @@
     "gulp-babel": "^7.0.0",
     "gulp-concat": "^2.6.1",
     "gulp-jshint": "^2.0.4",
+    "gulp-minify": "^2.1.0",
     "gulp-sass": "^3.0.0",
     "gulp-sourcemaps": "^1.9.1",
     "jshint": "^2.9.4",
