@@ -1,6 +1,6 @@
 {
   "name": "vue-checkin",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Circus Starter plus the start of the html needed for the Check In project",
   "main": "gulpfile.js",
   "dependencies": {},
